@@ -114,3 +114,10 @@ button{
 .inspiration {
     background-color: #E5E7EB;
 }
+
+.quote {
+font-style: italic;
+font-weight: 100;
+font-size: 36px;
+color: #1f2937;
+}
