@@ -39,3 +39,9 @@ img {
     justify-content: space-between;
     padding: 0px 30px;
 }
+
+.awesome {
+    font-size: 48px;
+    font-weight: 900;
+    color: #F9FAF8;
+}
