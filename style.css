@@ -26,3 +26,8 @@ a {
     justify-content: flex-end;
     gap:30px;  
 }
+
+img {
+    width: 255px;
+    height: auto;    
+}
