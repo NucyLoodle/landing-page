@@ -19,6 +19,7 @@ a {
     align-items:center;
     justify-content:space-between;
     padding: 0px 100px;
+    
 }
 
 .hlinks {
@@ -32,12 +33,15 @@ img {
     height: auto; 
 }
 
+
 .container {
     display:flex;
     background-color: #1f2937;
     display: flex;
     justify-content: space-between;
     padding: 0px 100px;
+    align-items: space-around;
+    padding-bottom: 50px;
 }
 
 .awesome {
