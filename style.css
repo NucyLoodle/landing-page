@@ -84,21 +84,20 @@ button{
     font-weight: 900;
     display: flex;
     flex-direction: column;
-    align-items: center;
-    justify-content: center;
+    text-align:center;
 }
 
 .information {
     display: flex;
-    flex-direction: row;
-    
+    flex-grow: 100%;
+    justify-content: space-around;
+    padding: 50px 100px;        
 }
 
 
 .card {
     display:flex;
     flex-direction:column;
-    justify-content: center;
     text-align: center;
     width: 265px;
     height:auto;
@@ -108,6 +107,6 @@ button{
 }
 
 .card img {
-    border-radius: 10px;
+    border-radius: 5px;
     border: 5px solid #41b3a3;
 }
