@@ -92,6 +92,8 @@ button{
     display:flex;
     flex-direction:column;
     width: 300px;
-    height:auto
-    
+    height:auto;
+    font-size: 18px;
+    color: #1f2937;
+    font-weight: 200;
 }
