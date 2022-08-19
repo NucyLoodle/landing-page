@@ -5,7 +5,8 @@ a {
 }
 
 .header {
-    color: #ffffff;
+    color: #f9faf8;
+    font-size: 24px;
     background-color: #1f2937;
     display: flex;
     align-items:center;
