@@ -80,3 +80,8 @@ button{
     font-size: 36px;
     font-weight: 900;
 }
+
+.information {
+    display: flex;
+    flex-direction: column;
+}
