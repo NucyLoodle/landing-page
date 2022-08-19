@@ -113,11 +113,15 @@ button{
 
 .inspiration {
     background-color: #E5E7EB;
+    color: #1f2937;
+    font-size: 36px;
 }
 
 .quote {
 font-style: italic;
 font-weight: 100;
-font-size: 36px;
-color: #1f2937;
+}
+
+.author {
+    font-weight: 900;
 }
