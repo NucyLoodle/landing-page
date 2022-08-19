@@ -3,3 +3,11 @@ a {
     font-size: 18px;
     color: #e5e7eb;
 }
+
+.header {
+    color: #ffffff;
+    background-color: #1f2937;
+    display: flex;
+    align-items:center;
+    justify-content:space-between;
+  }
