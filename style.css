@@ -45,3 +45,25 @@ img {
     font-weight: 900;
     color: #F9FAF8;
 }
+
+.subtext {
+    color: #e5e7eb;
+    font-size: 18px;    
+}
+
+button{
+    color:#e5e7eb;
+    background-color: #3882f6;
+    border: none;
+    padding: 5px 25px;
+    text-align: center;
+    display: inline-block;
+    font-size: 18px;
+    border-radius: 5px;
+    
+  }
+
+  .button-top:hover {
+    background-color: #41b3a3; 
+    color: white;
+  }
