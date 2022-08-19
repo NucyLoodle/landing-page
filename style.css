@@ -81,12 +81,15 @@ button{
     font-weight: 900;
     display: flex;
     flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
 
 .information {
     display: flex;
     flex-direction: row;
 }
+
 
 .card {
     display:flex;
