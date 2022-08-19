@@ -63,8 +63,7 @@ button{
     text-align: center;
     display: inline-block;
     font-size: 18px;
-    border-radius: 5px;
-    
+    border-radius: 5px;    
 }
 
 .button-top:hover {
@@ -92,13 +91,16 @@ button{
 .information {
     display: flex;
     flex-direction: row;
+    
 }
 
 
 .card {
     display:flex;
     flex-direction:column;
-    width: 300px;
+    justify-content: center;
+    text-align: center;
+    width: 265px;
     height:auto;
     font-size: 18px;
     color: #1f2937;
