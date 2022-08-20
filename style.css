@@ -91,9 +91,9 @@ button:hover {
 
 .information {
     display: flex;
-    flex-grow: 100%;
     justify-content: space-between;
-    padding: 50px 300px;        
+    padding: 50px 300px;   
+    flex-wrap: wrap;     
 }
 
 
