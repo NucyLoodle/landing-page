@@ -136,26 +136,23 @@ button{
 
 
 .box {
-    padding: 200px 200px;
-    border: solid red 5px;
+    padding: 200px 200px;    
 }
 
 
 .action {
-    display:flex;
-    flex-direction: column;
+    display:flex;  
     background-color: #3882F6;
     color: #f9faf8;
     border-radius: 20px;
     padding: 50px 0px;
-    border: solid rgb(98, 0, 255) 5px;    
+    justify-content: space-between;       
 }
 
 .call {
     font-size: 24px;
     font-weight: 600;
-    padding: 10px 100px;
-    
+    padding: 10px 100px;   
 }
 
 .sign-up {
