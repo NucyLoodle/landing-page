@@ -134,6 +134,8 @@ button{
     text-align: right;
 }
 
+
+
 .action {
     background-color: #3882F6;
     color: #f9faf8;
@@ -144,6 +146,6 @@ button{
     font-weight: 600;
 }
 
-.quote {
+.sign-up {
     font-size: 18px;
 }
