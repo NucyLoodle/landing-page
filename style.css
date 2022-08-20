@@ -19,6 +19,7 @@ a {
     align-items:center;
     justify-content:space-between;
     padding: 0px 200px;
+
     
 }
 
@@ -29,8 +30,10 @@ a {
 }
 
 img {
-    width: 255px;
-    height: auto; 
+    max-width: 255px;
+    height: 255px;
+    object-fit: cover; 
+    
 }
 
 
