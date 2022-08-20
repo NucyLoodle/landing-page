@@ -163,3 +163,11 @@ button:hover {
 .button-bottom {
     border: solid #f9faf8;   
 }
+
+.footer {
+    color: #f9faf8;
+    font-size: 18px;
+    background-color: #1f2937;
+    padding: 49px 200px;
+    text-align: center;
+}
