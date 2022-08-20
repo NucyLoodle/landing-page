@@ -91,8 +91,8 @@ button{
 .information {
     display: flex;
     flex-grow: 100%;
-    justify-content: space-around;
-    padding: 50px 100px;        
+    justify-content: space-between;
+    padding: 50px 200px;        
 }
 
 
@@ -113,7 +113,7 @@ button{
 }
 
 .inspiration {
-    padding: 100px;
+    padding: 100px 0px;
     background-color: #E5E7EB;
     color: #1f2937;
     font-size: 36px;
@@ -122,10 +122,11 @@ button{
 }
 
 .quote {
-font-style: italic;
-font-weight: 100;
-border: solid red 5px;
-padding: 0px 100px;
+    font-style: italic;
+    font-weight: 100;
+    border: solid red 5px;
+    padding: 0px 200px;
+    
 }
 
 .author {
