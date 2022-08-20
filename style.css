@@ -146,7 +146,7 @@ button:hover {
     background-color: #3882F6;
     color: #f9faf8;
     border-radius: 20px;
-    padding: 50px 0px;
+    padding: 50px 100px;
     justify-content: space-between;  
     border: solid red 5px;     
 }
@@ -163,8 +163,7 @@ button:hover {
 }
 
 .boxleft {
-    border: solid rgb(81, 255, 0) 5px; 
-    padding: 10px 100px; 
+    border: solid rgb(81, 255, 0) 5px;  
 }
 
 .button-bottom {
