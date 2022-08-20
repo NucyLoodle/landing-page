@@ -147,26 +147,19 @@ button:hover {
     color: #f9faf8;
     border-radius: 20px;
     padding: 50px 100px;
-    justify-content: space-between;  
-    border: solid red 5px;     
+    justify-content: space-between;      
 }
 
 .call {
     font-size: 24px;
-    font-weight: 600;   
-    border: solid rgb(217, 255, 0) 5px;   
+    font-weight: 600;     
 }
 
 .sign-up {
     font-size: 18px;
-    border: solid red 5px;  
 }
 
-.boxleft {
-    border: solid rgb(81, 255, 0) 5px;  
-}
 
 .button-bottom {
-    border: solid #f9faf8
-    
+    border: solid #f9faf8;   
 }
