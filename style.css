@@ -55,7 +55,7 @@ img {
     font-size: 18px;    
 }
 
-button{
+button { 
     color:#e5e7eb;
     background-color: #3882f6;
     border: none;
@@ -65,6 +65,7 @@ button{
     font-size: 18px;
     border-radius: 5px;    
 }
+
 
 .button-top:hover {
     background-color: #41b3a3; 
@@ -158,4 +159,8 @@ button{
 .sign-up {
     font-size: 18px;
     padding: 10px 100px;
+}
+
+.button-bottom {
+    border: solid #f9faf8
 }
