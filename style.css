@@ -137,7 +137,6 @@ button{
 
 .box {
     padding: 0px 100px;
-    display: flex;
     border: solid red 5px;
 }
 
