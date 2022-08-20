@@ -135,10 +135,16 @@ button{
 }
 
 
+.box {
+    padding: 0px 100px;
+    
+}
+
 
 .action {
     background-color: #3882F6;
     color: #f9faf8;
+    border-radius: 20px;
 }
 
 .call {
