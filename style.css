@@ -92,7 +92,7 @@ button{
     display: flex;
     flex-grow: 100%;
     justify-content: space-between;
-    padding: 50px 200px;        
+    padding: 50px 300px;        
 }
 
 
@@ -125,8 +125,8 @@ button{
     font-style: italic;
     font-weight: 100;
     border: solid red 5px;
-    padding: 0px 200px;
-    
+    padding: 0px 300px;
+    text-align: justify;  
 }
 
 .author {
